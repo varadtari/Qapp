@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Qapp</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="textView2">Welcome to java quiz</string>
+   <string name="button4">Yes</string>
+    <string name="button5">No</string>
+    <string name="imageView">Javalogo</string>
+    <string name="Question"></string>
+    <string name="imageView4">Quizlogo</string>
+    <string name="textview">Welcome to this Quiz app</string>
+    <string name="button" translatable="false">Enter</string>
+    <string name="button2">C</string>
+    <string name="button3">C++</string>
+    <string name="textview3">Click here to start Java Quiz</string>
+
+</resources>
